@@ -14,7 +14,7 @@ Senior iOS Developer with **8+ years of experience** designing, developing, and 
 ## 🚀 About Me
 
 - 8+ years of professional experience in **iOS application development**
-- Strong expertise in **SwiftUI, Swift and Objective-C**
+- Strong expertise in **Swift and Objective-C**
 - Experienced in complete iOS application lifecycle management
 - Hands-on experience with **UIKit, SwiftUI, MVVM and MVC**
 - Experienced with **REST APIs, Firebase, AWS and Google SDKs**
